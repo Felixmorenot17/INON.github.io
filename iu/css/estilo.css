@@ -1,0 +1,106 @@
+div#ContenedorPrincipal{
+	width: 1325px;
+	margin: auto;
+}
+
+body{
+	background-color: rgba(0, 0, 0, 0.76);
+}
+img#logo
+{
+	width: 80px;
+}
+#navBar{
+	height: 100px;
+	margin-bottom: 3px;
+	color: white;
+}
+#banNav{
+	padding: 8px 15px;
+}
+#textNav{
+	  padding-top: 15px;
+}
+img#imgIn{
+	width: 1015px;
+}
+div#tiendas{
+	background: white;
+	rgba(255, 255, 255, 0.27);
+	width: 1000px;
+	margin: auto;
+	height: 415px;
+}
+div#eventos{
+	background: rgba(255, 255, 255, 0.27);
+	width: 1000px;
+	margin: auto;
+	height: 415px;
+}
+p#anuncio{
+	color: black;
+	font-size: 25px;
+	padding-top: 15px;
+  	margin-left: 10px;
+}
+p#anuncio2{
+	color: white;
+	font-size: 25px;
+	padding-top: 15px;
+  	margin-left: 10px;
+}
+p#tp{
+	background-color: rgb(202, 202, 202);
+	width: 200px;
+	font-size: 18px;
+	text-align: center;
+	margin-left: 10px;
+}
+
+div#cuadritos
+{
+	height: 250px;
+  	width: 250px;
+	background-color: black;
+	margin-left: 100px;
+ 	margin-top: 10px;
+
+}
+div#final{
+	height: 100px;
+	background-color: black;
+	color:white;
+	text-align: center;
+	font-size: 15px
+}
+#Rnav{
+	  margin-top: 10px;
+}
+#navUl{
+  margin-top: 25px;
+  margin-left: 15px;
+}
+
+#FormularioN1{
+	
+	background-color: white;
+
+}
+#FormularioN2{
+
+	background-color: white;
+
+}
+
+#FormularioN3{
+	background-color: white;
+}
+
+div#botn{
+	
+	margin-top: 10px;
+}
+
+div#formularioUN{
+	margin-bottom: 1px;
+}
